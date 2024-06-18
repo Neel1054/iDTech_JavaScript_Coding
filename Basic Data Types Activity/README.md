@@ -1,2 +1,2 @@
 # Working with Basic Data Types Activity
-hi
+In this assignment I created a short story using variables to represent the different elements in the story. This assignment included using an array, a bolean, 3 integers, and 4 strings. 
