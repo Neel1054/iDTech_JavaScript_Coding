@@ -1,1 +1,2 @@
 # Creating Sentences Activity
+In this assignent I created a program which turns array elements into a sentence. I did so by creating a function which used a loop to loop through each element in the array (which were the words), in turn creating a sentence.
