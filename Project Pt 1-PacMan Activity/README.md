@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+In this assignment I used conditionals, set intervals, and functions to create a pacman which would automatically move towards one end of the screen, then turn around once it reaches than end, and move to the other end, and turn around again. 
