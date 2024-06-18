@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+In this assignment I created a fortune teller game. In this I used conditionals to determine what range the number assigned falls in, and in turn designated a fortune. For example, if the number is 5, it is deemed and printed to the console that the person has a normal fortune, but if they get 10 it is printed they have a high fortune. The program also makes use of else statements to ensure if any other fortune is selected, it prints that the fortune cannot be read.
