@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In this project, I made a more advanced version of the previous pacman project. In this project, when the add pacman button is clicked, it will create a new pacman, and it can be clicked multiple times. When start game is clicked, the pacmans will start to move up and down, left and right, and bounce off any walls it hits. 
