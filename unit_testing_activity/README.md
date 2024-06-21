@@ -1,1 +1,2 @@
 # Unit Testing Activity
+In this activity, I used unit testing to test a function, using various different parameters. The function should respond based off what name is, in various ways. The unit testing checks to see if the function is working, and which parts are working and which aren't.
